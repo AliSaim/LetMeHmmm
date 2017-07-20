@@ -1,0 +1,10 @@
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/bin/Debug/netcoreapp1.1/LetMeHmmm.deps.json
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/bin/Debug/netcoreapp1.1/LetMeHmmm.runtimeconfig.json
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/bin/Debug/netcoreapp1.1/LetMeHmmm.runtimeconfig.dev.json
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/bin/Debug/netcoreapp1.1/LetMeHmmm.dll
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/bin/Debug/netcoreapp1.1/LetMeHmmm.pdb
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/obj/Debug/netcoreapp1.1/LetMeHmmm.csprojResolveAssemblyReference.cache
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/obj/Debug/netcoreapp1.1/LetMeHmmm.csproj.CoreCompileInputs.cache
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/obj/Debug/netcoreapp1.1/LetMeHmmm.AssemblyInfo.cs
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/obj/Debug/netcoreapp1.1/LetMeHmmm.dll
+/Users/Ali/Desktop/ASP Projects/LetMeHmmm/LetMeHmmm/obj/Debug/netcoreapp1.1/LetMeHmmm.pdb
