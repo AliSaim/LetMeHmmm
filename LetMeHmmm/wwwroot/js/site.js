@@ -1,8 +1,16 @@
 ﻿// Write your Javascript code.
 function reply_click(clicked_id)
 {   
-    var i1 = 3;
-    var i2 = 3;
+
+    //get a random number between first record and last record
+    //for exampe, 5
+
+    //then set image1 and image2 ref var values to 5a, and 5b; 
+
+    //console.log(Math.floor(Math.random()*4));
+
+    var i1 = Math.floor(Math.random()*4)+1;
+    var i2 = Math.floor(Math.random()*4)+1;
 
     switch(clicked_id){
     case "image1":
@@ -13,8 +21,7 @@ function reply_click(clicked_id)
         document.getElementById("image2").src="/images/banner"+i2+".svg";
         console.log("Second Image");
         break;
-    case 6:
-        day = "Saturday";
+
 
     alert(clicked_id);
     }
